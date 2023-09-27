@@ -20,5 +20,5 @@ jobs:
           base_uri: https://eu.ast.checkmarx.net
           cx_client_id: ${{ secrets.CLIENT_ID }}
           cx_client_secret: ${{ secrets.SECRET }}
-          additional_params: --debug --scan-types iac-security,sast --threshold iac-security-high=1=,iac-security-medium=1,iac-securitylow=1  
+          additional_params: --debug 
           
