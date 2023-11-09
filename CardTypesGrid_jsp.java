@@ -74,6 +74,12 @@ public class CardTypesGrid_jsp extends HttpJspBase {
     }
   }
 
+
+
+
+
+
+  
   
   long dCountRec(java.sql.Statement stat, String table, String sWhere) {
     long lNumRecs = 0;
