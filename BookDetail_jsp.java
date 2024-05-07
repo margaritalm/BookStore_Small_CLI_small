@@ -12,6 +12,10 @@ public class BookDetail_jsp extends HttpJspBase {
 //   JSP.ccp build 05/21/2001
 //
 
+
+
+
+  
   static final String CRLF = "\r\n";
 
 // TEst lital
